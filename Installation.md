@@ -71,3 +71,10 @@ $ nvm install 16.15.1  (whatever version you tryna get)
 
 okay let me go try the npm start again I guess
 
+npm start did not work apparently I needed to create react app first (SMH)
+
+$  npx create-react-app my-react-app
+
+okay that works, let's try organizing files and running npm start again.
+
+npm start only worked when i opened the folder! smh
